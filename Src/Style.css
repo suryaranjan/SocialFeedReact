@@ -1,0 +1,279 @@
+        body{
+            
+        }
+        .Top{
+            margin-bottom:15px;
+           
+        }
+        .Bottom{
+            border-radius: 5px;
+        }
+        #root{
+            width:40%;
+            margin:auto;
+            
+            overflow:hidden;
+            
+        }
+        .TopBar {
+            background-color: #F7F7F9;
+            padding-top:5px;
+            padding-bottom: 5px;
+                
+        }    
+          .pic  {
+            width:17px;
+            height:17px;
+            
+                        
+        }
+         .IconContainerEdit {
+            display:inline;
+            margin: 5px;
+            color:blue;
+            
+         }
+         .IconContainerCamera{
+            display:inline;
+            margin: 5px;
+            color:grey;
+            
+         }
+        .IconTagContainer  {
+            display:inline;
+            margin:2px;
+        }
+        .IconTagContainerCamera  {
+            display:inline;
+            margin:2px;
+            color:blue;
+        }
+        .IconTagg {
+            display:inline;
+        }
+        .IconTagContainerRight{
+            display:inline;
+            margin:2px;
+            float:right;
+        }
+       .ProfilePicTopbar {
+            
+            display:inline;
+            float:right;
+            overflow:hidden;
+            margin:3px;
+          margin-top:1px;
+        }
+        .ProfilePicSecondBar{
+             display:inline;
+            float:left;
+            overflow:hidden;
+            margin:5px;
+          margin-bottom:3px;
+        }
+        .TopSecondBar{
+            overflow:hidden;
+                border-bottom: 2px solid #BECFDA;
+                width:100%;
+                border-radius:5px;
+                
+        }
+        .PicSecondBar{
+             width:30px;
+            height:30px;
+        }
+        .TopSecondBarInput
+        {
+                height: 25px;
+                width: 85%;
+                margin-top: 5px;
+                margin-left: 5px;
+                display: inline;
+                border: none;
+        }
+         
+            .ContentTopBar{
+                margin-top:5px;
+               
+                overflow:hidden;
+            }
+            .ContentProfilePic{
+                  width:30px;
+                 height:30px;
+                 
+            }
+            .ContentProfile{
+                float:left;
+                margin:5px;
+                margin-right: 15px;
+            }
+            .ContentTopBarHeading{
+                margin-top: 3px;
+            }
+            .FirstPart{
+                font-weight: bold;
+                color:blue;
+            }
+            .SecondPart{
+                
+            }
+            .ThirdPart{
+                color:blue;
+            }
+            .IconTagContainerWorld{
+                display: inline;
+                 color: grey;
+            }
+            .IconContainerWorld{
+                display: inline;
+                margin-left: 5px;
+                color: grey;
+            }
+            .ContentMainProfile{
+                    width: 97%;
+                    margin: auto;
+                    margin-top: 10px;
+            }
+            .ContentMainPic{
+                width: 100%;
+            }
+            .ContentBottomBar{
+                    border-top: 02px solid 	#E4E7ED;
+                    width: 97%;
+                    margin: auto;
+                    padding-top:5px;
+                    padding-bottom: 5px;
+            }
+            .IconContainerLike{
+                color: grey;
+                display: inline;
+                
+            }
+            .IconTagContainerLike{
+                color: grey;
+                display: inline;
+                margin-left: 5px;
+            }
+            .IconContainerComment{
+                    color: grey;
+                    display: inline;
+                    margin-left: 20px;
+            }
+            .IconTagContainerComment{
+                    display: inline;
+                    margin-left: 5px;
+                    color: grey;
+            }
+            .IconContainerShare{
+                    display: inline;
+                    color: grey;
+                    margin-left: 20px;
+            }
+            .IconTagContainerShare{
+                    display: inline;
+                    color: grey;
+                    margin-left: 5px;
+            }
+            .ContentBottomProfile{
+                    display: inline;
+                    overflow: auto;
+            }
+            .ContentBottomBarPic{
+                width: 15px;
+                margin-right: 15px;
+                float: right;
+            }
+            .FooterSecond{
+                    width: 98%;
+                    margin: auto;
+                    margin-bottom: 10px;
+                    
+                     padding:5px;
+            }
+            .IconContainerLikes{
+                    display: inline-block;
+                    color: white;
+                    background-color: blue;
+                    border-radius: 50%;
+                    height: 17px;
+                    width: 20px;
+                    font-size: 12px;
+                    padding-top: 2px;
+                    text-align: center;
+                    
+            }
+            .IconContainerHeart{
+                    display: inline-block;
+                    width: 18px;
+                    height: 16px;
+                    color: white;
+                    background-color: red;
+                    font-size: 12px;
+                    border-radius: 53%;
+                    text-align: center;
+                    padding-top: 3.5px;
+                    margin-left: -3px;
+            }
+            .IconContainerAstonished{
+                display: inline;
+                font-size: 13px;
+                position: absolute;
+                top: -4;
+                margin-left: -2px;
+            }
+            .BottomBarIcontag{
+                    display: inline;
+                    margin-left: 25px;
+                    font-size: 12px;
+                    color:blue;
+            }
+            .BottomBarSecondIcontag{
+                color: blue;
+            display: inline;
+            float: right;
+
+            }
+            .FooterProfilePic{
+                    height: 30px;
+                      width: 30px;
+            }
+            .FooterProfile{
+                    float: left;
+                  display: inline;
+            }
+            .FooterInput{
+                    display: inline;
+                    margin-left: 15px;
+                    margin-top: 2px;
+                    height: 20px;
+                    width: 90%;
+            }
+            .IconFooterEmoji{
+                display: inline;
+                margin-top: .2%;
+              
+                color: grey;
+                margin-left: -3%;
+                font-size: 19px;
+                position: absolute;
+            }
+            .IconFooterCamera{
+                display: inline;               
+                margin-top: .3%;
+                
+                color: grey;
+                margin-left: -5%;
+                position: absolute;
+            }
+            .Footer{
+                    width: 98%;
+                    margin: auto;
+                    overflow: hidden;
+                    
+                     padding:5px;
+            }
+            .MainFooter
+            {
+                 background-color: #E4E7ED;
+                 border-radius:5px;
+            }
